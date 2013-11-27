@@ -1,4 +1,5 @@
-author: katsew
+author: katsew  
+license: MIT
 
 USAGE:  
 ```
